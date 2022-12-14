@@ -2,7 +2,7 @@
 
 Languages : Angular ❤️, TypeScript.
 
-Lien : https://ng-pokemon-app-bd2a3.web.app/login
+Lien : ng-pokemon-app-bd2a3.web.app
 
 name: pikachu
 
