@@ -1,6 +1,9 @@
 # NgPokemonApp
 
 Languages : Angular ❤️, TypeScript.
+Lien : https://ng-pokemon-app-bd2a3.web.app/login
+name: pikachu
+password : pikachu 
 
 Ce que j'ai fait : 
 
