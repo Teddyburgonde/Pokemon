@@ -1,24 +1,27 @@
 # NgPokemonApp
 
-Languages : Angular ❤️, TypeScript.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
-Lien : https://ng-pokemon-app-bd2a3.web.app
+## Development server
 
-name: pikachu
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-password : pikachu 
+## Code scaffolding
 
-Ce que j'ai fait : 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- Gestion des composants , templates , directives 
-- Utilisation de pipes 
-- Organiser mon code avec des modules 
-- Gestion des routes 
-- Creation de module afin de mieux structurer le code 
-- Utilisation des services 
-- La programmation Réactives 
-- Mise en place d'un formulaire 
-- Faire des requêtes HTTP ( Mise en place d'un simulateur de serveur distant )
-- Utilisation de la librairie RxJs
-- Utilisation de guards
-- Déployer app avec firebase  
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
